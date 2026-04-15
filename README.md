@@ -88,7 +88,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 - [ANSSI - Configuration recommendations of a GNU/Linux system](https://messervices.cyber.gouv.fr/documents-guides/linux_configuration-en-v2.pdf)
 - [CIS Benchmark for Distribution Independent Linux](https://www.cisecurity.org/benchmark/distribution_independent_linux/)
 - [trimstray - The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - practical step-by-step instructions for building your own hardened systems and services. Tested on CentOS 7 and RHEL 7.
-- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide) 
+- [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide)
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - for a single Linux server at home
 - [nixCraft - 40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
 - [nixCraft - Tips To Protect Linux Servers Physical Console Access](https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html)
@@ -329,7 +329,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 
 ## Tools to check security hardening
 
-- [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions. 
+- [Chef InSpec](https://www.inspec.io/) - open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions.
 
 ### GNU/Linux
 
@@ -340,6 +340,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo
 - [CIS Benchmarks Audit](https://github.com/finalduty/cis_benchmarks_audit) - bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now)
+- [CIS Debian Hardening](https://github.com/ovh/debian-cis) - Modular Debian 11/12/13 security hardening scripts based on [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) recommendations.
 
 ### Windows
 
@@ -444,4 +445,3 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
-
