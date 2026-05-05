@@ -341,6 +341,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo
 - [CIS Benchmarks Audit](https://github.com/finalduty/cis_benchmarks_audit) - bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now)
 - [CIS Debian Hardening](https://github.com/ovh/debian-cis) - Modular Debian 11/12/13 security hardening scripts based on [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) recommendations.
+- [VPS Security Audit Script](https://github.com/vernu/vps-audit) - A comprehensive Bash script for auditing the security and performance of your VPS (Virtual Private Server)
 
 ### Windows
 
