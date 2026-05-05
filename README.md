@@ -86,7 +86,7 @@ This is work in progress: please contribute by sending your suggestions. You may
 ## GNU/Linux
 
 - [ANSSI - Configuration recommendations of a GNU/Linux system](https://messervices.cyber.gouv.fr/documents-guides/linux_configuration-en-v2.pdf)
-- [CIS Benchmark for Distribution Independent Linux (Archive)](https://ia803101.us.archive.org/view_archive.php?archive=/1/items/cis-benchmarks/CIS_Benchmarks.zip&file=CIS_Benchmarks%2FLinux%2FCIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf)
+- [CIS Benchmark for Distribution Independent Linux](https://ia803101.us.archive.org/view_archive.php?archive=/1/items/cis-benchmarks/CIS_Benchmarks.zip&file=CIS_Benchmarks%2FLinux%2FCIS_Distribution_Independent_Linux_Benchmark_v2.0.0.pdf) - 2019, archived
 - [trimstray - The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - practical step-by-step instructions for building your own hardened systems and services. Tested on CentOS 7 and RHEL 7.
 - [trimstray - Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist) - most important hardening rules for GNU/Linux systems (summarized version of The Practical Linux Hardening Guide) 
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - for a single Linux server at home
