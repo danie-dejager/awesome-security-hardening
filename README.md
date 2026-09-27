@@ -355,6 +355,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 ### Network Devices
 
 - [Nipper-ng](https://github.com/arpitn30/nipper-ng) - to check the configuration of network devices (does not seem to be updated)
+- [cawk](https://github.com/cedricllorens/cawk) - multi-supplier network configuration checker
 
 ### TLS/SSL
 
